@@ -10,3 +10,4 @@ Main purpose of this repository is collaboration of homework  for study groups
 - Author's email [pluhin@gmail.com](pluhin@gmail.com)
 
 ## CI/CD
+Test
